@@ -8,6 +8,17 @@ html {
   text-rendering: optimizelegibility;
 }
 
+#__next main .link-secondary {
+  text-decoration-line: unset;
+}
+#__next main .underline {
+  text-decoration-line: unset;
+}
+
+#__next main .markdown a {
+  text-decoration-line: unset;
+}
+
 main {
   --color-prettylights-syntax-comment: #768390;
   --color-prettylights-syntax-constant: #6cb6ff;
