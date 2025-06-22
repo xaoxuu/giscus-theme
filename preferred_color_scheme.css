@@ -10,8 +10,6 @@
 
 html {
   font-family: 'LXGW WenKai Screen',system-ui,sans-serif !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizelegibility;
 }
 
