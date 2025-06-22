@@ -3,6 +3,18 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
+@import url(lxgwwenkaigbscreen.css);
+@import url(lxgwwenkaigbscreenr.css);
+@import url(lxgwwenkaiscreen.css);
+@import url(lxgwwenkaiscreenr.css);
+
+html {
+  font-family: 'LXGW WenKai Screen',system-ui,sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizelegibility;
+}
+
 main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
