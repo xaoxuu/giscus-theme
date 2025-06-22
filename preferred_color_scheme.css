@@ -3,10 +3,10 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
-@import url(lxgwwenkaigbscreen.css);
-@import url(lxgwwenkaigbscreenr.css);
-@import url(lxgwwenkaiscreen.css);
-@import url(lxgwwenkaiscreenr.css);
+@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaigbscreen.css);
+@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaigbscreenr.css);
+@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css);
+@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreenr.css);
 
 html {
   font-family: 'LXGW WenKai Screen',system-ui,sans-serif !important;
