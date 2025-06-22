@@ -64,7 +64,7 @@ main {
   --color-action-list-item-default-hover-bg: rgb(144 157 171 / 12%);
   --color-segmented-control-bg: rgb(99 110 123 / 10%);
   --color-segmented-control-button-bg: #22272e;
-  --color-segmented-control-button-selected-border: #636e7b;
+  --color-segmented-control-button-selected-border: #636e7b66;
   --color-fg-default: #adbac7;
   --color-fg-muted: #768390;
   --color-fg-subtle: #636e7b;
