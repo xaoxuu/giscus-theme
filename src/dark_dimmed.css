@@ -6,6 +6,8 @@
 html {
   font-family: 'LXGW WenKai Screen',system-ui,sans-serif !important;
   text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #__next main .link-secondary {
